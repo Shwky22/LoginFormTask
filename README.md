@@ -19,4 +19,4 @@ A simple login form built with Java AWT.
 
 ## How to Run
 1. Open the project in IntelliJ IDEA
-2. Run `LoginFormTask.java` (Shift + F10)
+2. Run `LoginFormTask.java`
